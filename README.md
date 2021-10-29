@@ -14,7 +14,7 @@
   <img align="center" alt="C-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
        
 
-  <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/892829776732114968/903754246300770334/download.png">
+  <img align="right" alt="Cris-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/892829776732114968/903776632479813652/output_auM4oo.gif?width=473&height=473">
 </div>
   
   ##

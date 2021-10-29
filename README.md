@@ -1,4 +1,4 @@
-## Oii coders, tudo bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35"/>
+## Oii coders, tudo bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"/>
 <div align="center">
   <a href="https://github.com/cristhian-ruescas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristhian-Ruescas&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>

@@ -26,7 +26,15 @@
     <a href="https://api.whatsapp.com/send?1=pt_BR&phone=11959586681&text=Olá, sou a pessoa do github!"> 
     <img alt="Phone - Cristhian Ruescas" src="https://img.shields.io/badge/📲-Whatsapp-4AC959">
   </a>  
-  <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0005.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0005" /></a></a> 
+ 
+                                                                                              </p>
+
+### 👨 Sobre mim 
+Meu nome é Cristhian Ruescas, estou cursando faculdade na Sao judas tadeu, de Ciências da computação e também atualmente estou estudando sobre Kotlin em um bootcamp chamado Generation Brasil, tenho sede de aprender e quero aprender cada vez mais.
+
+> Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. 🔌🌎
+ 
+
  
 ![Snake animation](https://github.com/cristhian-ruescas/cristhian-ruescas/blob/output/github-contribution-grid-snake.svg)
  

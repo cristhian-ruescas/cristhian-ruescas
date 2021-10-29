@@ -26,8 +26,6 @@
     <a href="https://api.whatsapp.com/send?1=pt_BR&phone=11959586681&text=Olá, sou a pessoa do github!"> 
     <img alt="Phone - Cristhian Ruescas" src="https://img.shields.io/badge/📲-Whatsapp-4AC959">
   </a>  
- 
-                                                                                              </p>
 
 ### 👨 Sobre mim 
 Meu nome é Cristhian Ruescas, estou cursando faculdade na Sao judas tadeu, de Ciências da computação e também atualmente estou estudando sobre Kotlin em um bootcamp chamado Generation Brasil, tenho sede de aprender e quero aprender cada vez mais.

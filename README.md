@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhian-Ruescas&layout=compact&langs_count=7&theme=blue"/>
 </div>
 <div style="display: inline_block"><br>
-  <h1>Minhas Skills:<h1>
   <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Cris-Kollin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

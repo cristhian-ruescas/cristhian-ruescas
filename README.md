@@ -22,7 +22,11 @@
 <div> 
   <a href="https://www.instagram.com/cris_0_029/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "cristhian.ruescas83@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristhianruescas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cristhianruescas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-computadores-318.htm">
+    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=11959586681&text=Olá, sou a pessoa do github!"> 
+    <img alt="Phone - Cristhian Ruescas" src="https://img.shields.io/badge/📲-Whatsapp-4AC959">
+  </a>  
+  <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0005.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0005" /></a></a> 
  
 ![Snake animation](https://github.com/cristhian-ruescas/cristhian-ruescas/blob/output/github-contribution-grid-snake.svg)
  

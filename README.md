@@ -1,8 +1,8 @@
 ## Oii coders, tudo bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20"/>
 <div align="center">
   <a href="https://github.com/cristhian-ruescas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristhian-Ruescas&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhian-Ruescas&layout=compact&langs_count=7&theme=blue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristhian-Ruescas&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="150em" "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhian-Ruescas&layout=compact&langs_count=7&theme=blue"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">

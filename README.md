@@ -1,4 +1,4 @@
-## Oii coders, tudo bem? <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-computadores-318.htm"><img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0031" /></a>
+## Oii coders, tudo bem? <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0031" /></a>
 <div align="center">
   <a href="https://github.com/cristhian-ruescas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristhian-Ruescas&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>

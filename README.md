@@ -14,7 +14,7 @@
        
 
   <img align="right" alt="Cris-pic" height="200" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/892829776732114968/904478639901519882/ezgif.com-gif-maker.gif">
+       src="https://cdn.discordapp.com/attachments/892829776732114968/904551197346766908/ezgif-4-4c09f32fc57c.gif">
 </div>
   
   ##

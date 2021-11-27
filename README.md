@@ -10,7 +10,7 @@
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="C-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="C-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="aws-git" height="50" width="60" src="https://media.discordapp.net/attachments/910631406965755954/914284219419750450/aws-academy-graduate-aws-academy-cloud-foundations.png">
        
 
   <img align="right" alt="Cris-pic" height="200" style="border-radius:50px;" 

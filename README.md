@@ -27,7 +27,7 @@
   </a>  
 
 ### 👨 Sobre mim 
-Meu nome é Cristhian Ruescas, estou cursando faculdade na Sao judas tadeu, de Ciências da computação e também atualmente estou estudando sobre Kotlin em um bootcamp chamado Generation Brasil, tenho sede de aprender e quero aprender cada vez mais.
+Meu nome é Cristhian Ruescas, estou cursando faculdade na Sao judas tadeu, de Ciências da computação e também atualmente estou trabalhando com a linguaguem Kotlin na Dasa, tenho sede de aprender e quero aprender cada vez mais.
 
 > Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. 🔌🌎
  

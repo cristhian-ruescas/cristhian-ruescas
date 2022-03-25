@@ -1,12 +1,14 @@
-## Oii coders, tudo bem? <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0031" /></a>
+## Sejam Bem-vindos ao meu perfil !!! <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0031" /></a>
 <div align="center">
   <a href="https://github.com/cristhian-ruescas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristhian-Ruescas&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   <img height="150em" "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhian-Ruescas&layout=compact&langs_count=7&theme=blue"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ 
+  
   <img align="center" alt="Cris-Kollin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="C-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -27,9 +29,11 @@
   </a>  
 
 ### 👨 Sobre mim 
-Meu nome é Cristhian Ruescas, estou cursando faculdade na Sao judas tadeu, de Ciências da computação e também atualmente estou trabalhando com a linguaguem Kotlin na Dasa, tenho sede de aprender e quero aprender cada vez mais.
+Bom falando um pouco sobre mim, entrei a pouco tempo na área de programação mas me apaixonei de cara, foi então que decidi fazer faculdade de Ciências da Computação no qual curso até hoje na São Judas Tadeu. Depois de alguns meses depois, eu acabei entrando em um bootcamp chamado generation, no qual aprendi Kotlin, e ao finalizar fui contratado pela Dasa, como desenvolvedor mobile, kotlin e swift.
 
-> Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom. 🔌🌎
+> Uma das minhas filosofias : Educação é a arma mais poderosa que você pode usar para mudar o mundo.
+
+ 🔌🌎
  
 
  

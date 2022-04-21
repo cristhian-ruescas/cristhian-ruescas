@@ -28,8 +28,7 @@
     <img alt="Phone - Cristhian Ruescas" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>  
 
-### 👨 Sobre mim 
-Bom falando um pouco sobre mim, entrei a pouco tempo na área de programação mas me apaixonei de cara, foi então que decidi fazer faculdade de Ciências da Computação no qual curso até hoje na São Judas Tadeu. Depois de alguns meses depois, eu acabei entrando em um bootcamp chamado generation, no qual aprendi Kotlin, e ao finalizar fui contratado pela Dasa, como desenvolvedor mobile, kotlin e swift.
+
 
 > Uma das minhas filosofias : Educação é a arma mais poderosa que você pode usar para mudar o mundo.
 

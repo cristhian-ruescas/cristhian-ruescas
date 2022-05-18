@@ -1,9 +1,5 @@
 ## Sejam Bem-vindos ao meu perfil !!! <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0031" /></a>
-<div align="center">
-  <a href="https://github.com/cristhian-ruescas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cristhian-Ruescas&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="150em" "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhian-Ruescas&layout=compact&langs_count=7&theme=blue"/>
-</div>
+
 <div style="display: inline_block"><br>
  
   

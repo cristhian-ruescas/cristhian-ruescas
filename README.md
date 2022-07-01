@@ -1,37 +1,49 @@
-## Sejam Bem-vindos ao meu perfil !!! <img src="https://www.imagensanimadas.com/data/media/318/emoticon-e-smiley-computador-imagem-animada-0031.gif" border="0" alt="emoticon-e-smiley-computador-imagem-animada-0031" /></a>
+<h2 align="left">Sejam Bem-vindos ao meu perfil !!!</h2>
 
-<div style="display: inline_block"><br>
- 
-  
-  <img align="center" alt="Cris-Kollin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Cris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="C-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-       
+###
 
-  <img align="right" alt="Cris-pic" height="200" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/892829776732114968/904551197346766908/ezgif-4-4c09f32fc57c.gif">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=cristhian" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=cristhian" height="150" alt="languages graph"  />
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/cris_0_029/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "cristhian.ruescas83@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristhianruescas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-computadores-318.htm">
-    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=11959586681&text=Olá, sou a pessoa do github!"> 
-    <img alt="Phone - Cristhian Ruescas" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>  
 
+###
 
-
-> Uma das minhas filosofias : Educação é a arma mais poderosa que você pode usar para mudar o mundo.
-
- 🔌🌎
- 
-
- 
-![Snake animation](https://github.com/cristhian-ruescas/cristhian-ruescas/blob/output/github-contribution-grid-snake.svg)
- 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="52" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cristhianruescas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511959586681&text=Ol%C3%A1%20cristhian%2C%20tudo%20bem%3F%20...%20" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:cristhian.ruescas83@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.discordapp.net/attachments/977725700335337516/992420160059215914/ezgif-5-7983c4c253.gif?width=456&height=456"  />
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/cristhian/cristhian/blob/output/snake.svg" alt="Snake animation" />
+
+###

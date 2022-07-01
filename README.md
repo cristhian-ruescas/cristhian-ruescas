@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/cristhian-ruescas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristhian-ruescas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhian-ruescas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cristhian-ruescas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhian-ruescas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ###
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
 </div>
 
-###
+#
 
 <div align="left">
   <a href="https://www.linkedin.com/in/cristhianruescas" target="_blank">

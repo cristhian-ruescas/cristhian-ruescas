@@ -44,6 +44,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/cristhian/cristhian/blob/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/cristhian-ruescas/cristhian-ruescas/blob/output/github-contribution-grid-snake.svg)
 
 ###

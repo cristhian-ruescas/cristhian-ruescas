@@ -15,6 +15,11 @@
   
 <br>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-ruescas&show_icons=true&locale=en&layout=compact" alt="cristhian-ruescas" /></p>
+
+<br><br><br><br><br><br><br><br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css logo"  />

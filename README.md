@@ -1,14 +1,19 @@
-<h2 align="left">Sejam Bem-vindos ao meu perfil !!!</h2>
+<h1 align="center">Olá 👋, Eu sou Cristhian</h1>
+<h3 align="center">Um entusiasta da programação mobile em busca de inovação e excelência técnica.</h3>
 
-###
+#
 
-<div align="center">
-  <a href="https://github.com/cristhian-ruescas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cristhian-ruescas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhian-ruescas&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 🔭 Atualmente estou trabalhando em: [IQuiz](https://github.com/cristhian-ruescas/IQuiz)
 
-###
+- 🌱 Atualmente estou aprendendo **Swift**
+
+- 💬 Pergunte-me sobre **React e Kotlin**
+
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/cristhianruescas/](https://www.linkedin.com/in/cristhianruescas/)
+
+- ⚡ Curiosidades: **Sou apaixonado em desenhar.**
+  
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html logo"  />

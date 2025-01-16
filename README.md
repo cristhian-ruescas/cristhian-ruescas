@@ -33,18 +33,6 @@
 
 #
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/cristhianruescas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511959586681&text=Ol%C3%A1%20cristhian%2C%20tudo%20bem%3F%20...%20" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:cristhian.ruescas83@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
